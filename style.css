@@ -1,0 +1,24 @@
+html,
+body {
+  margin: 0.5em;
+  text-align: center;
+  padding: 0;
+  background-color: rgb(235, 154, 220);
+  border: 2px solid rgb(148, 40, 139);
+}
+canvas {
+  display: block;
+  max-width: 100%;
+}
+h1 {
+  text-align: center;
+  color: rgb(148, 40, 139);
+  font-family: "Arial", sans-serif;
+  margin-top: 20px;
+}
+p {
+  text-align: center;
+  color: rgb(255, 252, 255);
+  font-family: "Arial", sans-serif;
+  margin-top: 10px;
+}
